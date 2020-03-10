@@ -1,0 +1,8 @@
+/* Comments */
+
+/* The external .css file should not contain any HTML tags.  */
+
+
+body {
+	background-color: lightblue;
+}
